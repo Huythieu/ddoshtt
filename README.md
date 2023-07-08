@@ -36,7 +36,7 @@
 
 ## hướng dẫn setup 
 ```sh
-git clone https://github.com/Huythieu/ddosht
+git clone https://github.com/Huythieu/ddoshtt
 cd ddosht
 pip3 install -r requirements.txt 
 python3 setup.py
